@@ -1,5 +1,6 @@
 # GPA-Calculator
-As a student at FAST GPA calculation after each test became a hassle so I decided to make a GPA calculator in python to keep track of my own academic performance. Feel free to download the executable file and run it in terminal to use it :)
+As a student at FAST GPA calculation after each test became a hassle so I decided to make a GPA calculator in python to keep track of my own academic performance. Feel free to download the executable file, if a warning comes click on more info and then run anyways and run it in terminal to use it :)
+Alternatively the source code is also provided, you can also copy paste the code in VS code and run it from there in the form of a .py file itself . Just ensure you have python packages pre-installed for this.
 GPA system followed for BS in FAST-NUCES:
 - A = 86% (4.00)
 - A- = 82% (3.67)
